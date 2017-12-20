@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flogo CLI on Project Flogo - Docs and Tutorials</title>
+    <link>https://tibcosoftware.github.io/flogo/flogo-cli/</link>
+    <description>Recent content in Flogo CLI on Project Flogo - Docs and Tutorials</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Apr 2016 16:50:16 +0200</lastBuildDate>
+    
+	<atom:link href="https://tibcosoftware.github.io/flogo/flogo-cli/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Flogo CLI</title>
+      <link>https://tibcosoftware.github.io/flogo/flogo-cli/flogo-cli/</link>
+      <pubDate>Sat, 09 Apr 2016 16:50:16 +0200</pubDate>
+      
+      <guid>https://tibcosoftware.github.io/flogo/flogo-cli/flogo-cli/</guid>
+      <description>The flogo CLI tool has a bunch of different actions and command. Below is a complete list of all of them, including samples on how to use them.
+Commands create This command is used to create a flogo application project.
+Create the base sample project with a specific name.
+flogo create my_app  Create a flogo application project from an existing flogo application descriptor.
+flogo create -f myapp.json  install This command is used to install a contribution to your project.</description>
+    </item>
+    
+    <item>
+      <title>Flogogen CLI</title>
+      <link>https://tibcosoftware.github.io/flogo/flogo-cli/flogogen-cli/</link>
+      <pubDate>Sat, 09 Apr 2016 16:50:16 +0200</pubDate>
+      
+      <guid>https://tibcosoftware.github.io/flogo/flogo-cli/flogogen-cli/</guid>
+      <description>The flogogen CLI tool has a bunch of different actions and command. Below is a complete list of all of them, including samples on how to use them. For a walk through of how to use these commands to create new extensions, check out the extension developer chapter.
+Trigger With the trigger command of flogogen you can create a custom flogo trigger. To do so, run:
+flogogen trigger mytrigger  Project Structure The create command creates a basic structure and files for an trigger.</description>
+    </item>
+    
+  </channel>
+</rss>

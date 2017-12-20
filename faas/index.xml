@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FaaS on Project Flogo - Docs and Tutorials</title>
+    <link>https://tibcosoftware.github.io/flogo/faas/</link>
+    <description>Recent content in FaaS on Project Flogo - Docs and Tutorials</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Apr 2016 16:50:16 +0200</lastBuildDate>
+    
+	<atom:link href="https://tibcosoftware.github.io/flogo/faas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Getting started with FaaS and Flogo</title>
+      <link>https://tibcosoftware.github.io/flogo/faas/how-to/</link>
+      <pubDate>Sat, 09 Apr 2016 16:50:16 +0200</pubDate>
+      
+      <guid>https://tibcosoftware.github.io/flogo/faas/how-to/</guid>
+      <description>This page will guide you through the set of steps required to build the most basic of functions for deployment to AWS Lambda. In this scenario, your Flow can be thought of as a function.
+AWS Lambda function Follow these steps to create a very simple &amp;lsquo;Flow as a Function&amp;rsquo; sample for deployment to AWS Lambda.
+Requirements  Install flogo cli details here Install docker here make command must be available on your development environment  Create the application Create a flogo.</description>
+    </item>
+    
+  </channel>
+</rss>

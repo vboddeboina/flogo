@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/introduction/</loc>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/getting-started/</loc>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/flogo-cli/</loc>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/configuration/</loc>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/flow-dev/</loc>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/extensions-developer/</loc>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/iot/</loc>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/faas/</loc>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/extensions-developer/create-activity/</loc>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/configuration/environment-vars/</loc>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/flogo-cli/flogo-cli/</loc>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/getting-started/quickstart/</loc>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/configuration/config-provider/</loc>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/extensions-developer/continuously-testing-flogo-activities/</loc>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/flogo-cli/flogogen-cli/</loc>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/flow-dev/trigger-flow-mappings/</loc>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/flow-dev/flow-mappings/</loc>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/faas/how-to/</loc>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/iot/how-to/</loc>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/getting-started/getting-started-webui/</loc>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/getting-started/getting-started-cli/</loc>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/iot/device-pi/</loc>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/getting-started/flogo-cli/</loc>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/iot/device-edison/</loc>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/iot/device-chip/</loc>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/getting-started/flogogen-cli/</loc>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/iot/device-beaglebone/</loc>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/contributing/contribute-to-docs/</loc>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/contributing/</loc>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/</loc>
+    <lastmod>2016-04-09T16:50:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tibcosoftware.github.io/flogo/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Getting started on Project Flogo - Docs and Tutorials</title>
+    <link>https://tibcosoftware.github.io/flogo/getting-started/</link>
+    <description>Recent content in Getting started on Project Flogo - Docs and Tutorials</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Apr 2016 16:50:16 +0200</lastBuildDate>
+    
+	<atom:link href="https://tibcosoftware.github.io/flogo/getting-started/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Quickstart</title>
+      <link>https://tibcosoftware.github.io/flogo/getting-started/quickstart/</link>
+      <pubDate>Sat, 09 Apr 2016 16:50:16 +0200</pubDate>
+      
+      <guid>https://tibcosoftware.github.io/flogo/getting-started/quickstart/</guid>
+      <description>We think it is awesome that you want to get started with Project Flogo! To get started you don&amp;rsquo;t even need to install anything other than Docker!
+In this quickstart guide we&amp;rsquo;ll walk you through the prerequisites for getting up and running with your first Flogo app.
+Getting Docker To make it easy to get started the Flogo Web UI is packaged up as a docker image which you can get from docker hub.</description>
+    </item>
+    
+    <item>
+      <title>The Web UI</title>
+      <link>https://tibcosoftware.github.io/flogo/getting-started/getting-started-webui/</link>
+      <pubDate>Sat, 09 Apr 2016 16:50:16 +0200</pubDate>
+      
+      <guid>https://tibcosoftware.github.io/flogo/getting-started/getting-started-webui/</guid>
+      <description>Getting Started For an overview of how to get started, check out the Quickstart guide
+Installing the Project Flogo Web UI Installing the Project Flogo Web UI is quite simple and requires nothing more than Docker pre-installed on your machine to fetch the Docker image.
+Fetching and starting the Web UI To get started with the latest version of the Flogo Web UI paste this command in a terminal window:</description>
+    </item>
+    
+    <item>
+      <title>CLI tools</title>
+      <link>https://tibcosoftware.github.io/flogo/getting-started/getting-started-cli/</link>
+      <pubDate>Sat, 09 Apr 2016 16:50:16 +0200</pubDate>
+      
+      <guid>https://tibcosoftware.github.io/flogo/getting-started/getting-started-cli/</guid>
+      <description>Project Flogo provides two different command-line interfaces and which you need depends on the task you need to execute.
+ flogo: This CLI gives you the ability to build flows and microservices. With this tool you can, among other things, create your applications, build applications and install new extensions. This tool is great to use with Continuous Integration and Continuous Deployment tools like Jenkins and Travis-CI. flogogen: If you&amp;rsquo;re looking to extend the functionality that Project Flogo offers out of the box, this is the tool you want to use.</description>
+    </item>
+    
+    <item>
+      <title>Flogo CLI</title>
+      <link>https://tibcosoftware.github.io/flogo/getting-started/flogo-cli/</link>
+      <pubDate>Sat, 09 Apr 2016 16:50:16 +0200</pubDate>
+      
+      <guid>https://tibcosoftware.github.io/flogo/getting-started/flogo-cli/</guid>
+      <description>Project Flogo provides two different command-line interfaces and which you need depends on the task you need to execute. The flogo CLI tool gives you the ability to build flows and microservices. With this tool you can, among other things, create your applications, build applications and install new extensions. It is also great to use with Continuous Integration and Continuous Deployment tools like Jenkins and Travis-CI.
+Please make sure that you have installed the flogo CLI tools and gb as described in the CLI tools</description>
+    </item>
+    
+    <item>
+      <title>Flogogen CLI</title>
+      <link>https://tibcosoftware.github.io/flogo/getting-started/flogogen-cli/</link>
+      <pubDate>Sat, 09 Apr 2016 16:50:16 +0200</pubDate>
+      
+      <guid>https://tibcosoftware.github.io/flogo/getting-started/flogogen-cli/</guid>
+      <description>Project Flogo provides two different command-line interfaces and which you need depends on the task you need to execute. If you&amp;rsquo;re looking to extend the functionality that Project Flogo offers out of the box, flogogen is the tool you want to use. Flogogen generates the scafolding used by extensions (activity/trigger) developers to build new extensions. We&amp;rsquo;ll cover creating new activities and triggers in a separate chapter.
+More help For additional documentation on the flogogen CLI, check out this section.</description>
+    </item>
+    
+  </channel>
+</rss>
